@@ -1,0 +1,4 @@
+127.0.0.1 cdn.hringdu.is
+127.0.0.1 static.airserve.net
+127.0.0.1 delivery.adnuntius.com
+127.0.0.1 gjoridsvovel.is
